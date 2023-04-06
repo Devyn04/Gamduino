@@ -3,7 +3,7 @@ Devyn Hopkins, Computer Engineering Student (2026)
 devynh22@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<a class="button is-link" href="https://github.com/Devyn04/Gamduino" >https://github.com/Devyn04/Gamduino</a>
 
 ## Photo
 {% include youtube.html video="miltuOLWDFQ" %}
