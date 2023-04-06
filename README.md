@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Devyn Hopkins, Computer Engineering Student (2026)
+devynh22@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
@@ -9,7 +9,7 @@ rhforsythjr@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+Thomas, Electrical Engineering & Computer Engineering 2025
 
 ## Current Status
 Complete
