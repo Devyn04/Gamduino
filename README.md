@@ -6,7 +6,7 @@ devynh22@vt.edu
 <a class="button is-link" href="https://github.com/Devyn04/Gamduino" >https://github.com/Devyn04/Gamduino</a>
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
+
 
 ## Mentor
 Thomas Lu, Electrical Engineering & Computer Engineering Student 2025
@@ -16,7 +16,7 @@ In progress
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project utilizes a breadboard, LCD, and arduino to make a portable gaming device. The device will be able to read live inputs and display them onto the LCD based on the input of the player. 
 
 ## Educational Value Added
 1. Develop skills in the programming languages C & C++
@@ -25,12 +25,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu 
 4. Translate abstract ideas into functional designs through programming language
 5. Develop a deeper understanding of analog & digital inputs, and button debouncing
 6. Learn how to use serial communication protocols & LCD communication with an arduino
-7. 
-
 
 ## Tasks
+- Design a circuit board for the button controls
+- Create a game that will be played
+- Display the game onto the LCD
+- Design a display for the point system 
 
-<!-- Your Text Here. See Example above -->
 
 ## Design Decisions
 
