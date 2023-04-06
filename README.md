@@ -9,18 +9,24 @@ devynh22@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Thomas, Electrical Engineering & Computer Engineering 2025
+Thomas Lu, Electrical Engineering & Computer Engineering Student 2025
 
 ## Current Status
-Complete
+In progress
 
 ## Project Overview
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
 
 ## Educational Value Added
+1. Develop skills in the programming languages C & C++
+2. Plan, design, and implement digital designs
+3. Apply the knowledge from digital systems into performing computer arithmetic
+4. Translate abstract ideas into functional designs through programming language
+5. Develop a deeper understanding of analog & digital inputs, and button debouncing
+6. Learn how to use serial communication protocols & LCD communication with an arduino
+7. 
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
 
 ## Tasks
 
