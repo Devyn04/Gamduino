@@ -16,7 +16,7 @@ In progress
 
 ## Project Overview
 
-This project utilizes a breadboard, LCD, and arduino to make a portable gaming device. The device will be able to read live inputs and display them onto the LCD based on the input of the player. 
+This project utilizes a breadboard, LCD, and arduino to make a portable gaming device. The device will be able to read live inputs and display them onto the LCD based on the input of the player.
 
 ## Educational Value Added
 1. Develop skills in the programming languages C & C++
